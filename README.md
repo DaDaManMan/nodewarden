@@ -1,5 +1,4 @@
-<p align="center">？
-  1
+<p align="center">
   <img src="./NodeWarden.svg" alt="NodeWarden Logo" />
 </p>
 
